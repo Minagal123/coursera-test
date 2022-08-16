@@ -6,12 +6,12 @@
 
 h1 {
   font-family: Brushstroke, fantasy;
-  color: #000000;
+  color: #0000FF;
   text-align: center;
 }
 
 body {
-  background-color: #FEF5CA;
+  background-color: #CAF1FE;
 
 }
 
@@ -21,7 +21,7 @@ p {
 }
 
 .container {
-  border: darkgreen;
+  border: black;
   margin-left: auto;
   margin-right: auto;
   margin-top: 10px;
@@ -78,9 +78,9 @@ section {
   font-size: 125%;
   margin-bottom: 0;
   margin-top: 0;
-  background-color: #6495ED;
-  color: white;
-  padding: 5px;
+ padding: 5px; 
+ background-color: #6495ED;
+  
 }
 
 .row {
